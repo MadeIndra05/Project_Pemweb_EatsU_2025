@@ -37,13 +37,6 @@ Website ini memiliki 3 jenis pengguna, yaitu:
 - **Login User**: Sistem login untuk admin, penjual, dan pembeli
 - **Pembayaran**: Mendukung proses pembayaran secara online atau sistem pembayaran yang ditentukan
 
-## 🚀 Tujuan
-
-Dengan adanya **Unram Eats**, diharapkan mahasiswa UNRAM dapat:
-
-- Menghemat waktu dalam proses memilih dan membeli makanan
-- Memperoleh informasi makanan sebelum tiba di FoodCourt
-- Mendukung digitalisasi layanan kantin kampus
 
 ---
 
